@@ -1,0 +1,76 @@
+{
+  "programming_languages": {
+    "python": ["Python", "Python3", "py"],
+    "javascript": ["JavaScript", "JS", "ES6", "ES2015"],
+    "typescript": ["TypeScript", "TS"],
+    "java": ["Java", "Java8", "Java11"],
+    "sql": ["SQL", "MySQL", "PostgreSQL", "T-SQL", "PL/SQL"],
+    "r": ["R", "R Language", "R Programming"],
+    "scala": ["Scala"],
+    "go": ["Go", "Golang"],
+    "cpp": ["C++", "CPP"],
+    "csharp": ["C#", ".NET"]
+  },
+  "data_science": {
+    "machine_learning": ["Machine Learning", "ML", "Supervised Learning", "Unsupervised Learning"],
+    "deep_learning": ["Deep Learning", "DL", "Neural Networks", "ANN", "CNN", "RNN"],
+    "nlp": ["Natural Language Processing", "NLP", "Text Mining", "Text Analytics"],
+    "computer_vision": ["Computer Vision", "CV", "Image Recognition", "Object Detection"],
+    "data_analysis": ["Data Analysis", "EDA", "Exploratory Data Analysis", "Statistical Analysis"],
+    "statistics": ["Statistics", "Statistical Modeling", "Probability", "Hypothesis Testing"],
+    "feature_engineering": ["Feature Engineering", "Feature Selection", "Feature Extraction"],
+    "model_evaluation": ["Model Evaluation", "Cross Validation", "A/B Testing", "Model Tuning"]
+  },
+  "ml_frameworks": {
+    "tensorflow": ["TensorFlow", "TF", "Keras"],
+    "pytorch": ["PyTorch", "Torch"],
+    "sklearn": ["scikit-learn", "sklearn", "Scikit Learn"],
+    "xgboost": ["XGBoost", "LightGBM", "CatBoost", "Gradient Boosting"],
+    "huggingface": ["HuggingFace", "Transformers", "BERT", "GPT"]
+  },
+  "frontend": {
+    "react": ["React", "ReactJS", "React.js"],
+    "vue": ["Vue", "VueJS", "Vue.js"],
+    "angular": ["Angular", "AngularJS"],
+    "html_css": ["HTML", "CSS", "HTML5", "CSS3", "SASS", "SCSS"],
+    "tailwind": ["Tailwind", "TailwindCSS"],
+    "nextjs": ["Next.js", "NextJS"],
+    "webpack": ["Webpack", "Vite", "Babel"]
+  },
+  "backend": {
+    "django": ["Django", "Django REST Framework", "DRF"],
+    "fastapi": ["FastAPI", "Fast API"],
+    "flask": ["Flask"],
+    "nodejs": ["Node.js", "NodeJS", "Express", "Express.js"],
+    "spring": ["Spring Boot", "Spring Framework"],
+    "graphql": ["GraphQL", "REST API", "RESTful API"]
+  },
+  "cloud_devops": {
+    "aws": ["AWS", "Amazon Web Services", "EC2", "S3", "Lambda", "RDS"],
+    "azure": ["Azure", "Microsoft Azure", "Azure ML"],
+    "gcp": ["GCP", "Google Cloud", "BigQuery", "Vertex AI"],
+    "docker": ["Docker", "Containerization"],
+    "kubernetes": ["Kubernetes", "K8s"],
+    "cicd": ["CI/CD", "Jenkins", "GitHub Actions", "GitLab CI"]
+  },
+  "databases": {
+    "relational": ["MySQL", "PostgreSQL", "SQLite", "Oracle", "MSSQL"],
+    "nosql": ["MongoDB", "Cassandra", "DynamoDB", "Redis", "Elasticsearch"],
+    "data_warehouse": ["Snowflake", "Redshift", "BigQuery", "Databricks"],
+    "etl": ["ETL", "Apache Spark", "Apache Kafka", "Airflow", "dbt"]
+  },
+  "tools": {
+    "version_control": ["Git", "GitHub", "GitLab", "Bitbucket"],
+    "project_management": ["Jira", "Confluence", "Trello", "Asana"],
+    "data_visualization": ["Tableau", "Power BI", "Looker", "Matplotlib", "Seaborn", "Plotly"],
+    "notebooks": ["Jupyter", "Jupyter Notebook", "Google Colab"],
+    "ml_ops": ["MLflow", "Kubeflow", "DVC", "Weights & Biases"]
+  },
+  "soft_skills": {
+    "communication": ["Communication", "Presentation Skills", "Public Speaking", "Stakeholder Management"],
+    "leadership": ["Leadership", "Team Lead", "Mentoring", "People Management"],
+    "problem_solving": ["Problem Solving", "Critical Thinking", "Analytical Skills"],
+    "teamwork": ["Teamwork", "Collaboration", "Cross-functional"],
+    "adaptability": ["Adaptability", "Flexibility", "Fast Learner"]
+  }
+}

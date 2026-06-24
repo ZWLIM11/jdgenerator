@@ -1,0 +1,198 @@
+[
+  {
+    "role": "Data Scientist",
+    "seniority_levels": ["Junior", "Mid", "Senior"],
+    "department": "Data & Analytics",
+    "industry": ["Tech", "Finance", "Healthcare", "E-commerce"],
+    "core_skills": ["Python", "SQL", "Machine Learning", "Statistics", "Data Analysis"],
+    "preferred_skills": ["Deep Learning", "Cloud Platforms", "Spark", "Tableau"],
+    "NOT_skills": ["React", "Angular", "Vue", "HTML", "CSS", "WordPress"],
+    "responsibilities": [
+      "Develop and deploy machine learning models to solve business problems",
+      "Analyse large datasets to extract actionable insights",
+      "Collaborate with stakeholders to define data requirements",
+      "Build data pipelines and preprocessing workflows",
+      "Present findings and recommendations to non-technical stakeholders",
+      "Monitor and maintain model performance in production",
+      "Conduct exploratory data analysis (EDA)",
+      "Evaluate and tune model hyperparameters for optimal performance"
+    ],
+    "qualifications": [
+      "Bachelor or Master degree in Computer Science, Statistics, Mathematics or related field",
+      "Proficiency in Python and SQL",
+      "Strong understanding of machine learning algorithms",
+      "Experience with ML frameworks such as scikit-learn, TensorFlow or PyTorch"
+    ],
+    "competencies": ["Problem Solving", "Analytical Thinking", "Communication", "Technical Skills"],
+    "typical_experience": {"junior": "0-2 years", "mid": "2-5 years", "senior": "5+ years"},
+    "salary_range_myr": {"junior": "3500-5500", "mid": "5500-9000", "senior": "9000-15000"}
+  },
+  {
+    "role": "Front-End Engineer",
+    "seniority_levels": ["Junior", "Mid", "Senior"],
+    "department": "Engineering",
+    "industry": ["Tech", "E-commerce", "Media", "Fintech"],
+    "core_skills": ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
+    "preferred_skills": ["Next.js", "TailwindCSS", "GraphQL", "Testing (Jest/Cypress)"],
+    "NOT_skills": ["TensorFlow", "PyTorch", "Machine Learning", "SQL Server DBA", "Kubernetes admin"],
+    "responsibilities": [
+      "Build responsive and accessible user interfaces",
+      "Collaborate with UI/UX designers to implement design specifications",
+      "Optimise web applications for performance and scalability",
+      "Write clean, reusable, and maintainable code",
+      "Integrate RESTful APIs and GraphQL endpoints",
+      "Conduct code reviews and maintain coding standards",
+      "Write unit and integration tests",
+      "Stay current with front-end development trends"
+    ],
+    "qualifications": [
+      "Bachelor degree in Computer Science or related field",
+      "Strong proficiency in JavaScript and TypeScript",
+      "Experience with React or equivalent front-end framework",
+      "Understanding of HTML5, CSS3, and responsive design"
+    ],
+    "competencies": ["Attention to Detail", "Creativity", "Collaboration", "Technical Skills"],
+    "typical_experience": {"junior": "0-2 years", "mid": "2-5 years", "senior": "5+ years"},
+    "salary_range_myr": {"junior": "3000-5000", "mid": "5000-8500", "senior": "8500-14000"}
+  },
+  {
+    "role": "Business Analyst",
+    "seniority_levels": ["Junior", "Mid", "Senior"],
+    "department": "Strategy & Operations",
+    "industry": ["Finance", "Consulting", "Tech", "Healthcare"],
+    "core_skills": ["Requirements Gathering", "SQL", "Data Analysis", "Stakeholder Management", "Documentation"],
+    "preferred_skills": ["Power BI", "Tableau", "Jira", "Python", "Process Mapping"],
+    "NOT_skills": ["Deep Learning", "Kubernetes", "React", "iOS Development"],
+    "responsibilities": [
+      "Gather and document business requirements from stakeholders",
+      "Translate business needs into functional specifications",
+      "Analyse business processes and identify improvement opportunities",
+      "Create user stories, use cases, and process flow diagrams",
+      "Collaborate with development teams to ensure requirements are met",
+      "Conduct user acceptance testing (UAT)",
+      "Produce reports and dashboards for management",
+      "Support change management activities"
+    ],
+    "qualifications": [
+      "Bachelor degree in Business, Information Systems or related field",
+      "Experience in requirements gathering and documentation",
+      "Proficiency in SQL for data querying",
+      "Strong analytical and communication skills"
+    ],
+    "competencies": ["Communication", "Analytical Thinking", "Problem Solving", "Stakeholder Management"],
+    "typical_experience": {"junior": "0-2 years", "mid": "2-5 years", "senior": "5+ years"},
+    "salary_range_myr": {"junior": "3000-4500", "mid": "4500-7500", "senior": "7500-12000"}
+  },
+  {
+    "role": "Backend Engineer",
+    "seniority_levels": ["Junior", "Mid", "Senior"],
+    "department": "Engineering",
+    "industry": ["Tech", "Fintech", "E-commerce", "SaaS"],
+    "core_skills": ["Python", "Java", "SQL", "REST API", "Docker"],
+    "preferred_skills": ["Kubernetes", "Microservices", "AWS", "Redis", "Kafka"],
+    "NOT_skills": ["React", "CSS", "UI Design", "Figma", "Adobe XD"],
+    "responsibilities": [
+      "Design and develop scalable backend services and APIs",
+      "Build and maintain databases and data storage solutions",
+      "Implement authentication, authorisation, and security best practices",
+      "Optimise application performance and reliability",
+      "Write unit and integration tests",
+      "Collaborate with front-end engineers on API contracts",
+      "Participate in system design and architecture discussions",
+      "Monitor and troubleshoot production systems"
+    ],
+    "qualifications": [
+      "Bachelor degree in Computer Science or related field",
+      "Proficiency in at least one backend language (Python, Java, Go)",
+      "Experience with relational and non-relational databases",
+      "Understanding of RESTful API design principles"
+    ],
+    "competencies": ["Problem Solving", "Technical Skills", "Reliability", "Collaboration"],
+    "typical_experience": {"junior": "0-2 years", "mid": "2-5 years", "senior": "5+ years"},
+    "salary_range_myr": {"junior": "3500-5500", "mid": "5500-9000", "senior": "9000-15000"}
+  },
+  {
+    "role": "HR Manager",
+    "seniority_levels": ["Mid", "Senior"],
+    "department": "Human Resources",
+    "industry": ["All"],
+    "core_skills": ["Recruitment", "Employee Relations", "HR Policies", "Performance Management", "Labour Law"],
+    "preferred_skills": ["HRIS Systems", "Talent Development", "Compensation & Benefits", "Organisational Development"],
+    "NOT_skills": ["Python", "Machine Learning", "React", "Docker", "Kubernetes"],
+    "responsibilities": [
+      "Oversee full-cycle recruitment processes",
+      "Develop and implement HR policies and procedures",
+      "Manage employee relations and conflict resolution",
+      "Coordinate performance appraisal processes",
+      "Ensure compliance with labour laws and regulations",
+      "Support talent development and succession planning",
+      "Manage compensation and benefits programmes",
+      "Foster a positive workplace culture"
+    ],
+    "qualifications": [
+      "Bachelor degree in Human Resources, Business Administration or related field",
+      "Knowledge of Malaysian Labour Law and employment regulations",
+      "Experience in full-cycle recruitment",
+      "Strong interpersonal and communication skills"
+    ],
+    "competencies": ["Leadership", "Communication", "Empathy", "Problem Solving", "Organisational Skills"],
+    "typical_experience": {"mid": "3-6 years", "senior": "6+ years"},
+    "salary_range_myr": {"mid": "5000-8000", "senior": "8000-14000"}
+  },
+  {
+    "role": "DevOps Engineer",
+    "seniority_levels": ["Junior", "Mid", "Senior"],
+    "department": "Engineering / Infrastructure",
+    "industry": ["Tech", "Fintech", "SaaS", "Enterprise"],
+    "core_skills": ["Docker", "Kubernetes", "CI/CD", "Linux", "Cloud (AWS/GCP/Azure)"],
+    "preferred_skills": ["Terraform", "Ansible", "Prometheus", "Grafana", "GitLab CI"],
+    "NOT_skills": ["React", "Machine Learning", "UI Design", "Figma"],
+    "responsibilities": [
+      "Design and maintain CI/CD pipelines",
+      "Manage cloud infrastructure and deployments",
+      "Implement infrastructure as code (IaC)",
+      "Monitor system performance and reliability",
+      "Automate operational tasks and workflows",
+      "Manage container orchestration with Kubernetes",
+      "Ensure security and compliance of infrastructure",
+      "Collaborate with development teams on deployment strategies"
+    ],
+    "qualifications": [
+      "Bachelor degree in Computer Science or related field",
+      "Experience with Docker and Kubernetes",
+      "Proficiency with at least one cloud provider (AWS, GCP, or Azure)",
+      "Knowledge of CI/CD tools and practices"
+    ],
+    "competencies": ["Technical Skills", "Problem Solving", "Reliability", "Adaptability"],
+    "typical_experience": {"junior": "1-2 years", "mid": "2-5 years", "senior": "5+ years"},
+    "salary_range_myr": {"junior": "4000-6000", "mid": "6000-10000", "senior": "10000-16000"}
+  },
+  {
+    "role": "Product Manager",
+    "seniority_levels": ["Mid", "Senior"],
+    "department": "Product",
+    "industry": ["Tech", "SaaS", "E-commerce", "Fintech"],
+    "core_skills": ["Product Strategy", "Roadmap Planning", "User Research", "Stakeholder Management", "Agile"],
+    "preferred_skills": ["SQL", "Figma", "A/B Testing", "OKRs", "Jira"],
+    "NOT_skills": ["Deep Learning", "Docker", "Kubernetes", "Backend Development"],
+    "responsibilities": [
+      "Define product vision, strategy, and roadmap",
+      "Gather and prioritise product requirements from stakeholders",
+      "Collaborate with engineering, design, and marketing teams",
+      "Define and track key product metrics and KPIs",
+      "Conduct user research and competitive analysis",
+      "Manage product backlog and sprint planning",
+      "Communicate product updates to stakeholders",
+      "Drive product launches and go-to-market strategies"
+    ],
+    "qualifications": [
+      "Bachelor degree in Business, Computer Science or related field",
+      "Proven experience in product management",
+      "Strong analytical and communication skills",
+      "Experience with agile methodologies"
+    ],
+    "competencies": ["Leadership", "Communication", "Analytical Thinking", "Strategic Thinking"],
+    "typical_experience": {"mid": "3-5 years", "senior": "5+ years"},
+    "salary_range_myr": {"mid": "6000-10000", "senior": "10000-18000"}
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Technical Skills",
+    "category": "Technical",
+    "definition": "Ability to apply domain-specific technical knowledge and tools to complete tasks and solve problems effectively.",
+    "behavioural_indicators": [
+      "Demonstrates proficiency in required technical tools and languages",
+      "Applies technical knowledge to solve complex problems",
+      "Keeps up to date with relevant technical developments",
+      "Produces high-quality technical outputs with minimal errors"
+    ],
+    "interview_angles": [
+      "Ask candidate to explain a technical concept in their domain",
+      "Present a technical problem and ask for their approach",
+      "Ask about a challenging technical project they completed"
+    ],
+    "poor_signals": ["Cannot explain basic concepts", "Unfamiliar with core tools", "Makes fundamental errors"],
+    "good_signals": ["Explains concepts clearly", "Applies tools correctly", "Solves standard problems independently"],
+    "excellent_signals": ["Demonstrates advanced depth", "Optimises solutions", "Mentors others technically"]
+  },
+  {
+    "name": "Communication",
+    "category": "Interpersonal",
+    "definition": "Ability to convey information clearly and effectively to diverse audiences, both verbally and in writing.",
+    "behavioural_indicators": [
+      "Explains complex ideas in simple terms",
+      "Listens actively and responds appropriately",
+      "Produces clear written documentation",
+      "Adapts communication style to audience"
+    ],
+    "interview_angles": [
+      "Ask candidate to explain a technical concept to a non-technical person",
+      "Ask about a time they had to deliver difficult news to a stakeholder",
+      "Observe clarity and structure of their answers throughout the interview"
+    ],
+    "poor_signals": ["Unclear explanations", "Struggles to adapt to audience", "Poor written communication"],
+    "good_signals": ["Clear and concise", "Adapts well", "Listens actively"],
+    "excellent_signals": ["Highly persuasive", "Tailors message expertly", "Proactively clarifies misunderstandings"]
+  },
+  {
+    "name": "Problem Solving",
+    "category": "Cognitive",
+    "definition": "Ability to identify, analyse, and resolve problems using logical reasoning and creative thinking.",
+    "behavioural_indicators": [
+      "Breaks down complex problems into manageable parts",
+      "Considers multiple approaches before deciding",
+      "Uses data and evidence to support decisions",
+      "Remains calm under pressure"
+    ],
+    "interview_angles": [
+      "Present a case study or hypothetical scenario",
+      "Ask about the most complex problem they have solved",
+      "Ask how they approach debugging or troubleshooting"
+    ],
+    "poor_signals": ["Jumps to conclusions", "Cannot structure thinking", "Gives up easily"],
+    "good_signals": ["Structured approach", "Considers alternatives", "Uses data"],
+    "excellent_signals": ["Root-cause analysis", "Innovative solutions", "Proactive problem prevention"]
+  },
+  {
+    "name": "Leadership",
+    "category": "Management",
+    "definition": "Ability to guide, inspire, and influence others toward achieving shared goals.",
+    "behavioural_indicators": [
+      "Takes initiative and ownership of outcomes",
+      "Motivates and supports team members",
+      "Makes decisions with confidence",
+      "Provides constructive feedback"
+    ],
+    "interview_angles": [
+      "Ask about a time they led a team through a challenge",
+      "Ask how they handle underperforming team members",
+      "Ask about their leadership style and philosophy"
+    ],
+    "poor_signals": ["Avoids responsibility", "Struggles to delegate", "Does not develop others"],
+    "good_signals": ["Takes ownership", "Motivates team", "Provides clear direction"],
+    "excellent_signals": ["Develops future leaders", "Drives cultural change", "Inspires high performance"]
+  },
+  {
+    "name": "Teamwork",
+    "category": "Interpersonal",
+    "definition": "Ability to collaborate effectively with others to achieve common goals.",
+    "behavioural_indicators": [
+      "Shares knowledge and resources willingly",
+      "Supports colleagues during challenging periods",
+      "Resolves conflicts constructively",
+      "Adapts role within team as needed"
+    ],
+    "interview_angles": [
+      "Ask about a successful team project they contributed to",
+      "Ask about a conflict with a colleague and how they resolved it",
+      "Ask how they contribute to team culture"
+    ],
+    "poor_signals": ["Works in isolation", "Creates conflict", "Reluctant to share credit"],
+    "good_signals": ["Collaborates well", "Supports teammates", "Shares knowledge"],
+    "excellent_signals": ["Elevates team performance", "Builds cohesion", "Proactively resolves tensions"]
+  },
+  {
+    "name": "Adaptability",
+    "category": "Personal",
+    "definition": "Ability to adjust effectively to changing conditions, priorities, and requirements.",
+    "behavioural_indicators": [
+      "Embraces change with a positive attitude",
+      "Quickly learns new tools and processes",
+      "Maintains performance under uncertainty",
+      "Adjusts plans when circumstances change"
+    ],
+    "interview_angles": [
+      "Ask about a time a project changed significantly mid-way",
+      "Ask how they stay current with changes in their field",
+      "Ask about the biggest change they had to adapt to"
+    ],
+    "poor_signals": ["Resists change", "Struggles with ambiguity", "Performance drops under uncertainty"],
+    "good_signals": ["Accepts change positively", "Learns quickly", "Maintains productivity"],
+    "excellent_signals": ["Drives change", "Thrives in ambiguity", "Helps others adapt"]
+  },
+  {
+    "name": "Analytical Thinking",
+    "category": "Cognitive",
+    "definition": "Ability to gather, interpret, and apply data and evidence to reach sound conclusions.",
+    "behavioural_indicators": [
+      "Uses data to support decisions",
+      "Identifies patterns and trends",
+      "Questions assumptions before drawing conclusions",
+      "Presents findings clearly with supporting evidence"
+    ],
+    "interview_angles": [
+      "Present a dataset or scenario and ask for interpretation",
+      "Ask about a data-driven decision they made",
+      "Ask how they validate assumptions in their work"
+    ],
+    "poor_signals": ["Relies on gut feel", "Cannot interpret data", "Draws conclusions without evidence"],
+    "good_signals": ["Uses data effectively", "Identifies key insights", "Validates conclusions"],
+    "excellent_signals": ["Predictive thinking", "Synthesises complex data", "Challenges flawed data"]
+  },
+  {
+    "name": "Stakeholder Management",
+    "category": "Interpersonal",
+    "definition": "Ability to identify, engage, and manage relationships with key stakeholders to achieve project and organisational goals.",
+    "behavioural_indicators": [
+      "Identifies and maps stakeholder needs",
+      "Communicates proactively with stakeholders",
+      "Manages competing priorities diplomatically",
+      "Builds trust across all levels of the organisation"
+    ],
+    "interview_angles": [
+      "Ask about managing conflicting stakeholder expectations",
+      "Ask about engaging a difficult stakeholder",
+      "Ask how they keep stakeholders aligned on a project"
+    ],
+    "poor_signals": ["Ignores stakeholder needs", "Avoids difficult conversations", "Lacks political awareness"],
+    "good_signals": ["Communicates proactively", "Manages expectations well", "Builds good relationships"],
+    "excellent_signals": ["Strategic influencer", "Builds long-term partnerships", "Navigates politics expertly"]
+  }
+]
